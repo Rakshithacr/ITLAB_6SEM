@@ -1,0 +1,27 @@
+<html>
+<head>
+<style type="text/css">
+
+h1
+{
+font_family:tnr:
+color:green
+background:yellow
+}
+h1.red text
+{
+font_faimly:20px
+}
+h1.blue text
+{
+font_family:30px
+}
+</style>
+<p class=red text>hello</p>
+<p class=blue text>world</p>
+</head>
+<body>
+</body>
+</html>
+
+
